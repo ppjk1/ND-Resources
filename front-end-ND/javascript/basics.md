@@ -25,4 +25,5 @@ jQuery API documentation</a>
 ES6 - The future of JavaScript</a>
 
 <a href="https://github.com/rmurphey/js-assessment" target="_blank">
-This repo includes a set of tests that can be used to assess the skills of a candidate for a JavaScript position, or to improve one's own skills.</a>
+js-assessment</a> - test driven JavaScript training
+
