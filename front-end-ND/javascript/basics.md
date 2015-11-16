@@ -23,3 +23,6 @@ jQuery API documentation</a>
 
 <a href="https://discussions.udacity.com/t/es6-the-future-of-javascript/28364" target="_blank">
 ES6 - The future of JavaScript</a>
+
+<a href="https://github.com/rmurphey/js-assessment" target="_blank">
+This repo includes a set of tests that can be used to assess the skills of a candidate for a JavaScript position, or to improve one's own skills.</a>
